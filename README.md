@@ -1,1 +1,1 @@
-# Progate Duplicate: Halaman Depan Progate
+# Progate Duplicate: Progate Landing Page
