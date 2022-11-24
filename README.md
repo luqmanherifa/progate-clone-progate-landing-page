@@ -1,1 +1,1 @@
-# Progate Duplicate: Progate Landing Page
+# Progate Clone: Progate Landing Page
